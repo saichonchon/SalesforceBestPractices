@@ -8,7 +8,7 @@
 **Wiki**: https://github.com/ChristianLinenko/SalesforceBestPractices/wiki/Seperation-of-Concerns
 
 
-<a href="https://githubsfdeploy.herokuapp.com?owner=Saichon Prasert&repo=Frameworks/SOC&ref=master">
+<a href="https://githubsfdeploy.herokuapp.com?owner=saichonchon&repo=Frameworks/SOC&ref=master">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
